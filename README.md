@@ -66,14 +66,14 @@ print(f"Variance is : {var}")
 ![WhatsApp Image 2025-03-30 at 14 44 54_e93c095c](https://github.com/user-attachments/assets/acb9a81a-293e-428c-a145-ce1d0ed09d83)
 
 ### Results :
-For the given probabilities 0.125,0.0625,0.25,0.0625,0.125,0.125,0.25.
+The obtained result are
 
 Average Codeword Length is : 2.625
 
-Entropy is : 2.625 
+Entropy is : 2.625
 
-Efficiency is : 100.0 % 
+Efficiency is : 1.0
 
-Redudancy is : 0.0 
+Redudancy is : 0.0
 
-Variance is : 0.484.
+Variance is : 0.484
