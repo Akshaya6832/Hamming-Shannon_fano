@@ -1,19 +1,21 @@
-## Exp: Huffman-Shannon_fano
+## Exp-8: Huffman-Shannon_fano
 ## Name: Akshaya Settu
 ## Reg No.: 212223060014
-### Consider a discrete memoryless source with symbols and statistics {0.125, 0.0625, 0.25, 0.0625, 0.125, 0.125, 0.25} for its output. Apply the Huffman and Shannon-Fano to this source. Show that draw the tree diagram, the average code word length, Entropy, Variance, Redundancy, Efficiency.
+### Consider a discrete memoryless source with symbols and statistics {0.125, 0.0625, 0.25, 0.0625, 0.125, 0.125, 0.25} for its output. 
+### Apply the Huffman and Shannon-Fano to this source. Show that draw the tree diagram, the average code word length, Entropy, Variance, Redundancy, Efficiency.
 
 ### Aim :
 To compute the Average Codeword Length, Entropy, Efficiency, Redundancy, and Variance for a discrete memoryless source using Huffman and Shannon-Fano coding based on the given probabilities and codeword lengths.
 
 ### Tools Required :
 Python IDE with
+
 -> numpy library
+
 -> math library
 
 ### Program :
 ``` python
-#Huffman and Shannon-Fano coding
 import numpy as np
 import math 
 L  = 0
